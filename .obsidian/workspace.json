@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "88fa55e28cfae124",
+        "id": "96a6fcbb0609e272",
         "type": "tabs",
         "children": [
           {
-            "id": "82188f99650444ab",
+            "id": "ab38bf9366aae853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ab9b749ec2daf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55312a1a7bf4268e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c83236c6df67c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82188f99650444ab",
+  "active": "b3ab9b749ec2daf7",
   "lastOpenFiles": [
-    "Template/{{title}}.md",
+    "Timeline.md",
     "Old Testament/Genesis.md",
-    "Untitled.md",
+    "Geography.md",
+    "God.md",
+    "Cain.md",
+    "Genesis 1The Account of Creation (Genesis 1 1-31).md",
+    "Template/{{title}}.md",
     "README.md",
     "Old Testament",
     "Template"
