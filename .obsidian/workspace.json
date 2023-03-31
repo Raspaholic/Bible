@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f0ffb1c6609a3deb",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Testament/Genesis.md",
+                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Testament/Genesis.md",
+                "file": "Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Testament/Genesis.md"
+                "file": "Timeline.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ab9b749ec2daf7",
+  "active": "ab38bf9366aae853",
   "lastOpenFiles": [
-    "Timeline.md",
     "Old Testament/Genesis.md",
+    "Timeline.md",
     "Geography.md",
     "God.md",
     "Cain.md",
