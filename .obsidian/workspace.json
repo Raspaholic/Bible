@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96a6fcbb0609e272",
+        "id": "fd3f81b2d627c6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "ab38bf9366aae853",
+            "id": "af56fa65f5d97dda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ab9b749ec2daf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Testament/Genesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55312a1a7bf4268e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c83236c6df67c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cain.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0ffb1c6609a3deb",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Timeline.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab38bf9366aae853",
+  "active": "af56fa65f5d97dda",
   "lastOpenFiles": [
+    "Cain.md",
+    "Geography.md",
     "Old Testament/Genesis.md",
     "Timeline.md",
-    "Geography.md",
     "God.md",
-    "Cain.md",
     "Genesis 1The Account of Creation (Genesis 1 1-31).md",
     "Template/{{title}}.md",
     "README.md",
